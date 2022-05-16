@@ -23,8 +23,6 @@ Features
     * User can search for other accounts in search bar
 
 
-<img width="919" alt="image" src="https://user-images.githubusercontent.com/66505022/168621674-ee8c23dc-08ff-4210-9aa7-b1afce81d0f1.png">
-
 ## Data Model
 
 <img width="919" alt="image" src="https://user-images.githubusercontent.com/66505022/168621674-ee8c23dc-08ff-4210-9aa7-b1afce81d0f1.png">
